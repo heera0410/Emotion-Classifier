@@ -12,5 +12,5 @@ REQUISITIES
     
     fastai
     TextLMDataBunch
-    TextclasDataBunch
+    TextClasDataBunch
     TextClassifierLearner
