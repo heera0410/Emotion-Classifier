@@ -10,12 +10,13 @@ This project aims at classifying the emotion present in the text with the help o
 The dataset contains
 - timestamp
 - text
-- emotion classifier (anger, sadness, fear, joy, love, surprise)
+- emotions (anger, sadness, fear, joy, love, surprise)
 
 ## Requisites
 - fastai
 - TextLMDataBunch
 - TextClasDataBunch
+- LanguageModelLearner
 - TextClassifierLearner
 
 ## Working of the project
