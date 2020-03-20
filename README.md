@@ -13,4 +13,13 @@ REQUISITIES
     fastai
     TextLMDataBunch
     TextClasDataBunch
+    LanguageModelLearner
     TextClassifierLearner
+ 
+ STEPS
+        
+         Reading and viewing the data
+         Getting data ready for modeling
+         Fine-tuning a model
+         Building a classifier
+         
