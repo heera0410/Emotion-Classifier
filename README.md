@@ -10,7 +10,7 @@ This project aims at classifying the emotion present in the text with help of NL
 The dataset contains
 - timestamp
 - text
-- emotion classifier(anger, sadness, fear, joy, love, surprise)
+- emotion classifier (anger, sadness, fear, joy, love, surprise)
 
 ## Requisites
 - fastai
