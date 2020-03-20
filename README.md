@@ -25,4 +25,6 @@ The dataset contains
 3. A language model is created using the language_model_learner method. We pass this method three arguments. Our data, a pre-trained model, and a dropout percentage.
 4. With the language model ready and the encoder saved, we create a text classification model, load in the encoder, and train the network.
 5. The confusion matrix is produced.
+## Base Paper
+https://www.researchgate.net/publication/225045375_Emotion_Detection_from_Text
 
