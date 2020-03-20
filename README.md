@@ -5,16 +5,16 @@ EMOTION CLASSIFICATION
 MODELS
    
   
-     AWD-LSTM
+       AWD-LSTM
 
 
 REQUISITIES
     
-    fastai
-    TextLMDataBunch
-    TextClasDataBunch
-    LanguageModelLearner
-    TextClassifierLearner
+        fastai
+        TextLMDataBunch
+        TextClasDataBunch
+        LanguageModelLearner
+        TextClassifierLearner
  
  STEPS
         
