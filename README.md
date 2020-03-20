@@ -4,7 +4,7 @@
 [![OpenFaaS](https://img.shields.io/badge/Model-AWDLSTM-green.svg)](https://www.openfaas.com)
 
 ## What is the project?
-This project aims at classifying the emotion present in the text with help of NLP and AWD LSTM
+This project aims at classifying the emotion present in the text with the help of NLP and AWD LSTM.
 
 ## Dataset
 The dataset contains
