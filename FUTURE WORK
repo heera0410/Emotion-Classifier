@@ -1,0 +1,8 @@
+From the experimental results, some observations about the proposed approach are shown as follows.
+The dataset which we used has 4,16,810 records
+The data size affects the classification performance
+When the training data is more, the model will always perform better(AWD-LSTM).The no. of records in training data are 333448.
+The standard measure Accuracy is used to evaluate the performance of the model.And the metric confusion matrix is plotted to view the performance
+Word Embedding is achieved using fastai TextClasDataBunch and TextLMDataBunch classes,so the emotions of the text can be effectively classified.
+The proposed approach AWD-Lstm shows state of the art performance with 93.99% accuracy.  This shows the feasibility of an LSTM-based approach to text emotion classification. 
+ASGD weight dropped LSTM return the average of weights of current and previous iteration which is required to identify the importance of each word in a sentence to classify text under its class(emotions).
