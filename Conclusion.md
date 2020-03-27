@@ -11,9 +11,10 @@
 
 ## Future Work 1
   Our future work includes contributing to the literature on understanding communications on the topic of suicide in social media by 
-(i) creating a new human-annotated dataset to help identify features of suicidal ideation, 
-(ii) creating a set of benchmark experimental results for machine learning approaches to the classification of suicidal ideation, and 
-(iii) developing a machine classifier capable of distinguishing between worrying language such as suicidal ideation, and flippant references to suicide, awareness raising about suicide and reports of suicide. This is especially relevant to quantify actual volumes of worrying language on social media for the purposes of understanding risk to human safety.
+- creating a new human-annotated dataset to help identify features of suicidal ideation, 
+- creating a set of benchmark experimental results for machine learning approaches to the classification of suicidal ideation, and 
+- developing a machine classifier capable of distinguishing between worrying language such as suicidal ideation, and flippant references to suicide, awareness raising about suicide and reports of suicide. This is especially relevant to quantify actual volumes of worrying language on social media for the purposes of understanding risk to human safety.
 
 ## Future Work 2
-  Our future work also includes to help university administrators and teachers address problematic areas in teaching and learning. We propose to create a system that analyzes student comments from both course surveys and online sources to identify sentiment polarity, the emotions expressed, and satisfaction versus dissatisfaction.
+  - Our future work also includes to help university administrators and teachers address problematic areas in teaching and learning. 
+  - We propose to create a system that analyzes student comments from both course surveys and online sources to identify sentiment polarity, the emotions expressed, and satisfaction versus dissatisfaction.
