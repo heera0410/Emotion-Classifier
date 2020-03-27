@@ -20,7 +20,6 @@
   - We propose to create a system that analyzes student comments from both course surveys and online sources to identify sentiment polarity, the emotions expressed, and satisfaction versus dissatisfaction.
   
 ## Future Work 3
-   
-our future work includes to create system with the ability to detect emotion in text which can increase human-computer interaction. If the computer could tell a person's mood or emotional state, it would be able to switch to an accommodting form of interaction.
+  -Our future work includes to create system with the ability to detect emotion in text which can increase human-computer interaction. If the computer could tell a person's mood or emotional state, it would be able to switch to an accommodting form of interaction.
 
   
