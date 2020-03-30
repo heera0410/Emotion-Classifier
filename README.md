@@ -1,7 +1,7 @@
 # Emotion Classifier
 
 [![OpenFaaS](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.openfaas.com)
-[![OpenFaaS](https://img.shields.io/badge/Model-AWDLSTM-green.svg)](https://www.openfaas.com)
+[![OpenFaaS](https://img.shields.io/badge/Model-AWD_LSTM-green.svg)](https://www.openfaas.com)
 
 ## What is the project?
 This project aims at classifying the emotion present in the text with the help of NLP and AWD LSTM.
