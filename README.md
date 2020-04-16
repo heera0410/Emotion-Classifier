@@ -7,7 +7,7 @@
 This project aims at classifying the emotion present in the text with the help of NLP and AWD LSTM.
 
 ## Dataset
-The dataset contains
+The dataset contains 
 - timestamp
 - text
 - emotions (anger, sadness, fear, joy, love, surprise)
